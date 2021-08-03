@@ -1,0 +1,6 @@
+,Delivery order,Customer coordinates,Distance from depot,Drone direct eligibility,Drone vehicle eligibility,Selected schema,Drone departure time,Drone arrival time,Flight time,Trip time,Current battery after recharge,Actual recharge time,Extra recharge time
+0,0,"(5.09, 17.66)",12.660319901171535,drone_direct_schema,drone_vehicle_schema,drone_direct_schema,07:00:00,07:26:19,26.32063980234307,26.32063980234307,32.0,0.0,0.0
+1,2,"(22.97, 17.21)",21.725676053922925,,drone_vehicle_schema,drone_vehicle_schema,07:26:19,08:06:06,7.976644742080987,39.78925638430961,12.44450682541432,5.297284544424057,1.4678620833333333
+2,1,"(1.92, 5.42)",3.108504463564432,drone_direct_schema,drone_vehicle_schema,drone_direct_schema,08:12:52,08:20:05,7.217008927128864,7.217008927128864,10.217008927128864,5.749146843795531,0.0
+Program runtime (seconds),Total delivery time of optimal route (minutes)
+0.019999980926513672,85.84119858533447
